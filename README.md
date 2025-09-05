@@ -26,7 +26,7 @@ Scan/generate QR codes & convert images to PDFs, QRPDF is your all-in-one produc
 
 ## 🖼 Screenshots  
 
-| Home | QR Scanner | Image to PDF | PDF Viewer |
+| Home | Gallery | Set File Name | PDF Viewer |
 |------|------------|--------------|------------|
 | <img width="180" alt="Home (1)" src="https://github.com/user-attachments/assets/85141004-f01e-441a-9ab2-f8d4fedbe1aa" />
 | <img width="180" alt="Gallery (2)" src="https://github.com/user-attachments/assets/a50a1533-1784-4e99-9527-78350006da95" />

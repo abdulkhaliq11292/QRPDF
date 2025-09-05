@@ -1,50 +1,76 @@
-# Welcome to your Expo app 👋
+# 📱 SnapQRPDFLab  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+SnapQRPDFLab is a powerful mobile app that combines **QR code scanning & generation** with **image-to-PDF conversion**.  
+Easily scan QR codes, generate your own, capture photos, and turn them into shareable PDFs — all in one app.  
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Download  
 
-   ```bash
-   npm install
-   ```
+- [Google Play Store](https://play.google.com/store/apps/details?id=your.app.id)  
+- [Apple App Store](https://apps.apple.com/app/idYOUR_APP_ID)  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## ✨ Features  
 
-In the output, you'll find options to open the app in a
+- 📷 **Capture & Convert** – Take pictures and instantly convert them into PDF files.  
+- 📑 **Manage PDFs** – Save, view, and share your PDF files.  
+- 🔍 **QR Scanner** – Scan QR codes quickly and open links, text, or saved data.  
+- 🏷 **QR Generator** – Create your own QR codes for text, URLs, or contact info.  
+- 💾 **Save to Gallery** – Download QR codes or PDFs directly to your device.  
+- 🔄 **Share Anywhere** – Share PDFs and QR codes with friends or apps.  
+- ⭐ **Favorites & Recent Files** – Keep track of your most important documents.  
+- 💳 **Tip the Developer (Stripe)** – Support future updates by leaving a tip via **Stripe payments**.  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🖼 Screenshots  
 
-## Get a fresh project
+| Home | QR Scanner | Image to PDF | PDF Viewer |
+|------|------------|--------------|------------|
+| <img src="./screenshots/home.png" width="250"/> | <img src="./screenshots/scanner.png" width="250"/> | <img src="./screenshots/pdf.png" width="250"/> | <img src="./screenshots/viewer.png" width="250"/> |
 
-When you're ready, run:
+*(Replace with your actual screenshot file paths or hosted images)*  
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📖 How It Works  
 
-## Learn more
+1. **Open Camera** → Scan a QR or capture an image.  
+2. **Convert to PDF** → Instantly generate a PDF file.  
+3. **Save or Share** → Store it locally, share via WhatsApp, Gmail, etc.  
+4. **Generate QR** → Enter text or link, create and share a QR code.  
+5. **Leave a Tip 💙** → Use the **Stripe-powered Tip feature** to support the app.  
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🛠 Tech Stack  
 
-## Join the community
+- **React Native** (Expo)  
+- **TypeScript / JavaScript**  
+- **AsyncStorage** for local storage  
+- **Expo Camera & Print APIs**  
+- **Stripe Integration** for secure tips/donations  
+- **Custom QR & PDF utilities**  
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🤝 Contributing  
+
+Want to contribute? Feel free to:  
+- Fork the repo  
+- Create a feature branch  
+- Submit a pull request  
+
+---
+
+## 📜 License  
+
+This project is licensed under the **MIT License** – feel free to use and modify it.  
+
+---
+
+## 👨‍💻 Author  
+
+Developed by **[Your Name](https://github.com/yourusername)**  

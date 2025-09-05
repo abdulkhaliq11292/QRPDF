@@ -1,14 +1,13 @@
 # 📱 SnapQRPDFLab  
 
-SnapQRPDFLab is a powerful mobile app that combines **QR code scanning & generation** with **image-to-PDF conversion**.  
-Easily scan QR codes, generate your own, capture photos, and turn them into shareable PDFs — all in one app.  
+Scan/generate QR codes & convert images to PDFs, QRPDF is your all-in-one productivity tool to scan and generate QR codes, convert images to high-quality PDF documents, and manage your digital files effortlessly. plus support the developer with secure tips through Stripe integration.
 
 ---
 
 ## 🚀 Download  
 
-- [Google Play Store](https://play.google.com/store/apps/details?id=your.app.id)  
-- [Apple App Store](https://apps.apple.com/app/idYOUR_APP_ID)  
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.tgi.snapqrpdflab)  
+- [Apple App Store](https://apps.apple.com/pk/app/qrpdf/id6748396576)  
 
 ---
 
@@ -29,7 +28,14 @@ Easily scan QR codes, generate your own, capture photos, and turn them into shar
 
 | Home | QR Scanner | Image to PDF | PDF Viewer |
 |------|------------|--------------|------------|
-| <img src="./screenshots/home.png" width="250"/> | <img src="./screenshots/scanner.png" width="250"/> | <img src="./screenshots/pdf.png" width="250"/> | <img src="./screenshots/viewer.png" width="250"/> |
+| <img width="180" alt="Home (1)" src="https://github.com/user-attachments/assets/85141004-f01e-441a-9ab2-f8d4fedbe1aa" />
+| <img width="180" alt="Gallery (2)" src="https://github.com/user-attachments/assets/a50a1533-1784-4e99-9527-78350006da95" />
+| <img width="180" alt="Set File Name" src="https://github.com/user-attachments/assets/c809b41d-7255-4d5e-ae5d-d001519f38bb" />
+|<img width="180" alt="QR Generate" src="https://github.com/user-attachments/assets/c7cb0286-59fb-421d-9618-be7ef0eea9de" />
+|<img width="180" alt="QR scan" src="https://github.com/user-attachments/assets/099859ba-f06f-45b0-acba-155e4e9ba74f" />
+|<img width="180" alt="Recent Files" src="https://github.com/user-attachments/assets/8b4f4115-0fb2-430e-b0da-f5f3b2f254a9" />
+|
+
 
 *(Replace with your actual screenshot file paths or hosted images)*  
 

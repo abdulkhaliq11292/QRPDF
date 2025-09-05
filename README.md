@@ -37,15 +37,6 @@ Scan/generate QR codes & convert images to PDFs, QRPDF is your all-in-one produc
 
 ---
 
-## 📖 How It Works  
-
-1. **Open Camera** → Scan a QR or capture an image.  
-2. **Convert to PDF** → Instantly generate a PDF file.  
-3. **Save or Share** → Store it locally, share via WhatsApp, Gmail, etc.  
-4. **Generate QR** → Enter text or link, create and share a QR code.  
-5. **Leave a Tip 💙** → Use the **Stripe-powered Tip feature** to support the app.  
-
----
 
 ## 🛠 Tech Stack  
 

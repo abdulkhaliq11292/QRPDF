@@ -1,4 +1,4 @@
-# 📱 SnapQRPDFLab  
+# 📱 QRPDF
 
 Scan/generate QR codes & convert images to PDFs, QRPDF is your all-in-one productivity tool to scan and generate QR codes, convert images to high-quality PDF documents, and manage your digital files effortlessly. plus support the developer with secure tips through Stripe integration.
 

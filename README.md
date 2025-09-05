@@ -28,13 +28,13 @@ Scan/generate QR codes & convert images to PDFs, QRPDF is your all-in-one produc
 
 | Home | Gallery | Set File Name | PDF Viewer |
 |------|------------|--------------|------------|
-| <img width="180" alt="Home (1)" src="https://github.com/user-attachments/assets/85141004-f01e-441a-9ab2-f8d4fedbe1aa" />
-| <img width="180" alt="Gallery (2)" src="https://github.com/user-attachments/assets/a50a1533-1784-4e99-9527-78350006da95" />
-| <img width="180" alt="Set File Name" src="https://github.com/user-attachments/assets/c809b41d-7255-4d5e-ae5d-d001519f38bb" />
-|<img width="180" alt="QR Generate" src="https://github.com/user-attachments/assets/c7cb0286-59fb-421d-9618-be7ef0eea9de" />
-|<img width="180" alt="QR scan" src="https://github.com/user-attachments/assets/099859ba-f06f-45b0-acba-155e4e9ba74f" />
-|<img width="180" alt="Recent Files" src="https://github.com/user-attachments/assets/8b4f4115-0fb2-430e-b0da-f5f3b2f254a9" />
-|
+ <img width="180" alt="Home (1)" src="https://github.com/user-attachments/assets/85141004-f01e-441a-9ab2-f8d4fedbe1aa" />
+ <img width="180" alt="Gallery (2)" src="https://github.com/user-attachments/assets/a50a1533-1784-4e99-9527-78350006da95" />
+ <img width="180" alt="Set File Name" src="https://github.com/user-attachments/assets/c809b41d-7255-4d5e-ae5d-d001519f38bb" />
+<img width="180" alt="QR Generate" src="https://github.com/user-attachments/assets/c7cb0286-59fb-421d-9618-be7ef0eea9de" />
+<img width="180" alt="QR scan" src="https://github.com/user-attachments/assets/099859ba-f06f-45b0-acba-155e4e9ba74f" />
+<img width="180" alt="Recent Files" src="https://github.com/user-attachments/assets/8b4f4115-0fb2-430e-b0da-f5f3b2f254a9" />
+
 
 
 *(Replace with your actual screenshot file paths or hosted images)*  

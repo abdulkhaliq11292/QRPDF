@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
     marginBottom: 16,
     flexWrap: 'wrap',
     justifyContent: 'center',
-  },
+  },//jomimo
   amountButton: {
     borderWidth: 1,
     borderColor: '#ccc',
